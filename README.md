@@ -1,21 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&width=435&lines=Hi+there!+I'm+Solidity+Blockchain+dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&width=435&lines=Hi+there!+I'm+Python+Developer)](https://git.io/typing-svg)
 
 ---
 
 ### ⚡️ A quick introduction
 - 🔭 I’m currently looking for a job
-- 🌱 I’m currently learning Blockchain development (Solidity, Web3)
 - 👯 I'm open to freelancing projects
 - 📫 How to reach me: [Telegram](http://t.me/matvey_dev)
 
 ---
 
 ### 💻 Technologies
-- Languages: Solidity, Python, JavaScript, HTML, CSS
-- Backend: Truffle, Django (+DRF), FastAPI, Celery, Sqlalchemy
+- Languages: Python, JavaScript, Solidity, HTML, CSS
+- Backend: Django (+DRF), FastAPI, Celery, Sqlalchemy, Truffle
 - Frontend: React, Redux, web3js
 - Databases: Postgres, MongoDB
-- Tools: Ganache, Docker, docker-compose
+- Tools: Docker, docker-compose, Ganache
 
 ---
 
