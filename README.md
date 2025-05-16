@@ -5,7 +5,7 @@
 ### ⚡️ A quick introduction
 - 🔭 I’m currently looking for a job
 - 👯 I'm open to freelancing projects
-- 📫 How to reach me: [Telegram](http://t.me/matvey_dev)
+- 📫 How to reach me: [Telegram](http://t.me/mutvey)
 
 ---
 
